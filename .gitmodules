@@ -1,0 +1,3 @@
+[submodule "theme1"]
+	path = theme1
+	url = ./theme1/

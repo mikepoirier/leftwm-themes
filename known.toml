@@ -1,0 +1,6 @@
+[[theme]]
+name = "theme-1"
+repository = "/home/blindweasel/leftwm-themes/theme1/"
+commit = "*"
+version = "0.1.0"
+leftwm_versions = "*"
